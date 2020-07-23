@@ -1,16 +1,21 @@
 # flujoGit 
 Documentación de flujo de trabajo remoto con GIT
 
-# Organización
+## Organización
 
 Se recomienda crear una organización que sea la propietaria del repositorio principal. A partir
 de dicho repositorio los miembros o colaboradores podrán hacer un fork hacía sus cuentas
 personales.
 
-# Pasos para crear una organización
+### Pasos para crear una organización
 
 1. Click en tú foto perfil (Esquina superior derecha)
 2. Click en Settings
 3. Click en Organizaciones (Menú izquierdo)
 4. Click en Nueva organización
 5. Elegir plan y rellenar datos
+
+## Creación de Fork
+
+Para crear un fork debes iniciar sesión en GitHub y después ingresar a la landing page del
+proyecto del que quieras sacar tu Fork.
