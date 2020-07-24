@@ -19,3 +19,14 @@ personales.
 
 Para crear un fork debes iniciar sesión en GitHub y después ingresar a la landing page del
 proyecto del que quieras sacar tu Fork.
+
+## Cómo trabajar con 2 o más remotos
+
+Listar remotos
+'git remote -v'
+
+Agregar remotos
+'git remote add flujoGit https://github.com/iesoretania-dic/flujoGit.git'
+
+Eliminar remotos
+'git remote remove flujoGit'
