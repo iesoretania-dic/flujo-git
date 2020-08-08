@@ -30,3 +30,12 @@ Agregar remotos
 
 Eliminar remotos
 'git remote remove flujoGit'
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas (o releases) sólo deben ser creadas a partir de la rama 
+master como buena práctica.
+
+Para entender como llamar o categorizar a tus versiones te recomendamos que revises la 
+documentación en el Marco de Desarrollo de la Junta de Andalucía
+http://www.juntadeandalucia.es/servicios/madeja/contenido/libro-pautas/148
